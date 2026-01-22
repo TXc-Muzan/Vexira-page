@@ -1,7 +1,7 @@
 {
   "pageAccessToken": "EAAUIK7WVFeMBQsK2Al4vgpTIBpnfLaVZC7em8gDEkTm4swGJlnFqZAfFDwTBEuOGCZBbBZAKlCtEYj9ugLYPLVu6uUfmlbIcWOAhTw66QIPvA3fhIjeJXZCSiYm9lH2W9EpdWGx92IHhxha4OAvZCHAHcDkFumhjjylRCN0j1pKRbbdIbuW3lhgh1n3OnpqSebxCs99AZDZD",
-  "verifyToken": "ragebot",
-  "pageId": "",
+  "verifyToken": "pagebot",
+  "pageId": "962683196925286",
   "port": 3000,
   "prefix": "*",
   "botName": "Vexira AI",
