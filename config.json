@@ -1,9 +1,9 @@
 {
-  "pageAccessToken": "",
+  "pageAccessToken": "EAAUIK7WVFeMBQsTGs1abXZByHGoc7vJo428OvDDm9KF6mzsquq6kz8QZBf7bpZAo4IdzRhTlCmIajOKhfcgsc3StmDxmnKvWmDZCaIpnZBMSiWQL0WtAZA6QMukefHSCKIoMa5XG6wtQbxpd47fJY6RE3lJ8xXyQ6o5i6LPwqDeREvWdZCZBZBfEfDNgUjZBbUcBbyEuRZCO1ouB0wjmcVuxlOXJ6lWHl8sBKvyiNqAjOYZD",
   "verifyToken": "pagebot",
   "pageId": "",
   "port": 3000,
-  "prefix": "/",
-  "botName": "Nayan Page Bot",
-  "adminUIDs": ["33053051884340425"]
+  "prefix": "*",
+  "botName": "Vexira AI",
+  "adminUIDs": ["61574717120113"]
 }
